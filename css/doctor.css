@@ -1,0 +1,27 @@
+.h1
+{
+	font-size: 60px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	margin:10px 0px;
+ 	padding: 10px 15px;
+}
+
+.h2{
+	font-size: 40px;
+ 	font-family: sans-serif;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	margin:10px 0px;
+ 	padding: 10px 15px;
+
+}
+
+.p{
+	font-size: 20px;
+ 	font-family: sans-serif;
+ 	text-align: center;
+ 	margin:10px 0px;
+ 	padding: 10px 15px;
+}

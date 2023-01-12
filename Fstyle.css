@@ -1,0 +1,128 @@
+.LoginBody{
+ 	 background-image: url("login.jpg");
+  background-repeat: no-repeat;
+ 	 background-size: cover;
+     }
+
+ .Loginh1
+ {
+ 	font-size: 50px;
+ 	font-family: sans-serif;
+ 	text-align: left;
+ 	margin: 40px 0 ;
+ 	color: black;
+ }
+
+ .Loginp
+ {
+ 	font-size: 20px;
+ 	font-family: sans-serif;
+ 	margin: 15px 0;
+ 	color: black;
+ }
+
+
+ .logintxtUserEmail
+ {
+ 	font-size: 16px;
+ 	font-family: sans-serif;
+ 	width: 300px;
+ 	padding: 15px 10px;
+ 	border: 0;
+ 	outline: none;
+ 	border-radius: 5px;
+
+ }
+
+  .logintxtLPassword
+  {
+ 	font-size: 16px;
+ 	font-family: sans-serif;
+ 	width: 300px;
+ 	padding: 15px 10px;
+ 	border: 0;
+ 	outline: none;
+ 	border-radius: 5px;
+
+ }
+
+.loginchStatus
+{
+	padding: 15px 10px;
+  margin: 10px 0;
+	font-family: sans-serif;
+ 	width: 20px;
+  height: 20px;
+}
+
+ .loginchbox
+ {
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 15px 0;
+  color: black;
+ }
+
+ .loginbtnLogin
+ {
+ 	font-size: 18px;
+ 	font-weight: bold;
+ 	font-family: sans-serif;
+ 	margin:10px 0px;
+ 	padding: 10px 15px;
+ 	width: 40%;
+ 	border-radius: 5px;
+ 	border: 0;
+ 	color: white;
+ 	background-color: black;
+ }
+ 
+ .loginForgotten
+ {
+ 	color: black;
+ 	font-family: sans-serif;
+  font-weight: bold;
+   font-size: 15px;
+   padding: 15px 0px;
+ }
+
+  .loginSignup
+  {
+ 	color: black;
+ 	font-family: sans-serif;
+  font-weight: bold;
+ 	font-size: 15px;
+  padding: 15px 0px;
+ }
+
+ 
+.signupbody{
+   background-image: url("SIGNUP.jpg");
+  background-repeat: no-repeat;
+   background-size: cover;
+     }
+
+
+.RegInput
+{
+  font-size: 14px;
+  font-family: sans-serif;
+  width: 500px;
+  padding: 15px 10px;
+  border: 5;
+  outline: none;
+  border-radius: 5px;}
+
+  .signupsubmit
+  {
+    font-size: 18px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin:20px 0px;
+  padding: 20px 15px;
+  width: 40%;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  background-color: black;   
+  }

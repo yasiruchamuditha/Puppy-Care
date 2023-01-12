@@ -1,0 +1,30 @@
+.body{
+   background-image: url("vetrinarySurgon.jpg");
+  background-repeat: no-repeat;
+   background-size: cover;
+     }
+
+
+.RegInput
+{
+  font-size: 14px;
+  font-family: sans-serif;
+  width: 500px;
+  padding: 15px 10px;
+  border: 5;
+  outline: none;
+  border-radius: 5px;}
+
+  .signupsubmit
+  {
+    font-size: 18px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin:20px 0px;
+  padding: 20px 15px;
+  width: 40%;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  background-color: black;   
+  }

@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author Yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
+ */
 //vetrinary Surgeon
 
 //Import PHPMailer classes into the global namespace

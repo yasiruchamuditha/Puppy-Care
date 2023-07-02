@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author Yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
+ */
 //Import PHPMailer classes into the global namespace
 //These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;

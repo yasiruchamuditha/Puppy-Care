@@ -27,6 +27,10 @@
 </html>
 
 <?php
+/**
+ * @author Yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
+ */
 if(isset($_POST["btnsubmit"]))
 {
 	$code=$_POST["txtcode"];

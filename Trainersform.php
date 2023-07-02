@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author Yasiru
+ * contact me : https://linktr.ee/yasiruchamuditha for more information.
+ */
 //Tranners
 
 //Import PHPMailer classes into the global namespace
